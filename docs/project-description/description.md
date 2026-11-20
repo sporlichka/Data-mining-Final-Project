@@ -115,9 +115,3 @@ D.	Text Mining and NLP
 -	Dataset link
 -	README: project title, team, problem, dataset link, setup instructions, file structure, and exact run order.
 -	Team contribution statement
-
-
-
-
-Done by: 									Malika Ziyada
-Tamiris Abildayeva
