@@ -57,7 +57,7 @@ pip install pandas
 | GPG-002 | Dataset Description | Danis | GPG-001 | GPG-003 | done | [docs/GPG-002.md](docs/GPG-002.md) |
 | GPG-003 | Data Preprocessing | Tastemir (lead), Danis (design/review) | GPG-001 | GPG-002 | not started | [docs/GPG-003.md](docs/GPG-003.md) |
 | GPG-004 | Exploratory Data Analysis (EDA) | Tastemir (lead), Stanislav (stat. tests) | GPG-003 | — | not started | [docs/GPG-004.md](docs/GPG-004.md) |
-| GPG-005 | Feature Engineering | Danis + Stanislav | GPG-004 | — | not started | [docs/GPG-005.md](docs/GPG-005.md) |
+| GPG-005 | Feature Engineering | Danis + Stanislav | GPG-004 | — | in review | [docs/GPG-005.md](docs/GPG-005.md) |
 | GPG-006 | Baseline Model | Stanislav | GPG-005 | — | not started | [docs/GPG-006.md](docs/GPG-006.md) |
 | GPG-007 | Modeling (4+ models) | Stanislav (lead), Danis (code review) | GPG-006 | — | not started | [docs/GPG-007.md](docs/GPG-007.md) |
 | GPG-008 | Model Evaluation & Tuning | Danis | GPG-007 | — | not started | [docs/GPG-008.md](docs/GPG-008.md) |
